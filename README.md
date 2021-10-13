@@ -19,6 +19,9 @@ Creating a separate standup for each timezone provides additional solutions such
 * Users may travel between timezones, and almost all never update their slack timezone, which causes additional confusion on when they should report and who they report with.
 * Different timezones usually mean different cultures and specifically holidays. Disabling a standup for a week is doable in a timezone, such complexities would not be possible in a shared shared.
 
+#### I still want a multi-timezone solution
+We are happy to work with you to design a solution that handles your team's standup value proposition. Our recommendation is to set up mulitple standups one for each timezone, try it out, and let us know about anything that doesn't work. We can, together to create improvements that target those problems.
+
 ## Q: What the Standup & Prosper hidden commands?
 There are two kinds of messages the bot responds to:
 * `/standup` (or `/prosper`) `CMD` a list of these are available at `/standup help`
