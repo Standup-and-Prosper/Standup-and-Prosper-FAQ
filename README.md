@@ -22,6 +22,9 @@ Creating a separate standup for each timezone provides additional solutions such
 #### I still want a multi-timezone solution
 We are happy to work with you to design a solution that handles your team's standup value proposition. Our recommendation is to set up mulitple standups one for each timezone, try it out, and let us know about anything that doesn't work. We can, together to create improvements that target those problems.
 
+## Q: The owner of the standup is no longer part of the Slack workspace
+Any member of the standup (not any member of slack) can edit a standup. If there is a standup currently reporting that you don't have access to, the best thing to do is message the channel asking to be added to the standup. If there is a need for different standup roles for different standup access (edit configuration, review reports, answer standup), upgrade the account to [Support Standard](https://standup.teaminator.io/app/?install=false#/settings?focus=standard).
+
 ## Q: What the Standup & Prosper hidden commands?
 There are two kinds of messages the bot responds to:
 * `/standup` (or `/prosper`) `CMD` a list of these are available at `/standup help`
