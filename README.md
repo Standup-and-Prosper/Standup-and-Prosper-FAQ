@@ -9,9 +9,9 @@ There are two options for how to post the standup report.
 
 ![image](https://user-images.githubusercontent.com/5056218/145066466-1f7031b9-d624-4ecd-9d78-479cf1b5da78.png)
 * Sending the report to a thread is great for channels with lots of communication and prevents disruptions
-* Posting the report directly to the channel makes it possible to reploy to individual report questions or to team members.
+* Posting the report directly to the channel makes it possible to reply to individual questions or to team members.
 
-Unless your channel is one that has more than 20 people in it, Standup & Prosper recommend posting directly to the channel.
+Unless your channel is one that has more than 20 people in it, Standup & Prosper recommends posting directly to the channel.
 
 ![image](https://user-images.githubusercontent.com/5056218/145067470-f826f9ca-8054-4138-8882-eaaa0932ebb1.png)
 
