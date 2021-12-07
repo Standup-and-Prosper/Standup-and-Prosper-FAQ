@@ -4,6 +4,16 @@ Below are listed some common answer for a little more complex activites in S&P
 ## Q: I can't find an answer to my question
 Click [Create a new issue](https://github.com/Teaminator/Standup-and-Prosper-FAQ/issues/new) and ask away, or if you figured out something that you want everyone to know, just click [edit the FAQ](https://github.com/Teaminator/Standup-and-Prosper-FAQ/edit/main/README.md). (You'll need an account for this). If neither of those are options that work for you, send an email to the [Standup Support DL](mailto:faq-support@teaminator.io).
 
+## Q: How to improve replies to the standup report
+There are two options for how to post the standup report.
+
+![image](https://user-images.githubusercontent.com/5056218/145066466-1f7031b9-d624-4ecd-9d78-479cf1b5da78.png)
+* Sending the report to a thread is great for channels with lots of communication and prevents disruptions
+* Posting the report directly to the channel makes it possible to reploy to individual report questions or to team members.
+
+Unless your channel is one that has more than 20 people in it, Standup & Prosper recommend posting directly to the channel.
+
+![image](https://user-images.githubusercontent.com/5056218/145067470-f826f9ca-8054-4138-8882-eaaa0932ebb1.png)
 
 ## Q: How to make standups aware of the user's timezone?
 A common question about scheduling is "I want to have every user in the standup get reminded at 10:00AM in their timezone to answer the standup, how do I do this?". Great, the best way to achieve this for your team is to create one standup in each of the timezones where the users are, and assign just the users to that standup. It might seem that it would be better to have a single standup, which has a single report time, however that's actually not the best pattern. Let's take a look at some common problems that the multi-standup approach solves. For this, we'll assume there is one team in EST (UTC-4) and one team in IST (UTC+5.5):
