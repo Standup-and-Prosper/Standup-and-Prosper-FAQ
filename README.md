@@ -28,7 +28,7 @@ Thee popup standup dialog dosn't allow preformatted text, even though we have re
 
 #### Why is preformatted even necessary?
 
-In some cases standup team membrs may want to copy their previous day's standup answers to today. In those cases rather than manually copying and pasting, there is a great automated solution that exists to solve this problem. Just enabled the **Autofill prepopulation** and Standup & Prosper will take care of the rest. Answers will automatically be populated into the dialog the next day in markdown, making it easy for your team members to edit there responses.
+In some cases standup team membrs may want to copy their previous day's standup answers to today. In those cases rather than manually copying and pasting, there is a great automated solution that exists to solve this problem. Just enable the **Autofill prepopulation** and Standup & Prosper will take care of the rest. Answers will automatically be populated into the dialog the next day **in markdown**, making it easy for your team members to edit their responses.
 
 ![image](https://user-images.githubusercontent.com/5056218/145195899-ed573dfd-c55e-426a-af2e-19ab0b069a28.png)
 
