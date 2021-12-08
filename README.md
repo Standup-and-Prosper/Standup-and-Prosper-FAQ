@@ -1,6 +1,14 @@
 # The Standup and Prosper FAQ
 Below are listed some common answer for a little more complex activites in S&P
 
+* [I can't find an answer to my question](#q-i-cant-find-an-answer-to-my-question)
+* [How to improve replies to the standup report](q-how-to-improve-replies-to-the-standup-report)
+* [How to paste formated markdown into report dialog](q-How-to-paste-formated-markdown-into-report-dialog)
+* [How to make standups aware of the user's timezone?](#q-how-to-make-standups-aware-of-the-users-timezone)
+* [The owner of the standup is no longer part of the Slack workspace](#q-the-owner-of-the-standup-is-no-longer-part-of-the-slack-workspace)
+* [What the Standup & Prosper hidden commands?](#q-what-the-standup--prosper-hidden-commands)
+* [How to set a reminder on Friday for a Monday standup?](#q-how-to-set-a-reminder-on-friday-for-a-monday-standup)
+
 ## Q: I can't find an answer to my question
 Click [Create a new issue](https://github.com/Teaminator/Standup-and-Prosper-FAQ/issues/new) and ask away, or if you figured out something that you want everyone to know, just click [edit the FAQ](https://github.com/Teaminator/Standup-and-Prosper-FAQ/edit/main/README.md). (You'll need an account for this). If neither of those are options that work for you, send an email to the [Standup Support DL](mailto:faq-support@teaminator.io).
 
@@ -14,6 +22,20 @@ There are two options for how to post the standup report.
 Unless your channel is one that has more than 20 people in it, Standup & Prosper recommends posting directly to the channel.
 
 ![image](https://user-images.githubusercontent.com/5056218/145067470-f826f9ca-8054-4138-8882-eaaa0932ebb1.png)
+
+## Q: How to paste formated markdown into report dialog
+Thee popup standup dialog dosn't allow preformatted text, even though we have requested from Slack to allow this multiple times. There is just no way to support it, thes fields only support markdown.
+
+#### Why is preformatted even necessary?
+
+In some cases standup team membrs may want to copy their previous day's standup answers to today. In those cases rather than manually copying and pasting, there is a great automated solution that exists to solve this problem. Just enabled the **Autofill prepopulation** and Standup & Prosper will take care of the rest. Answers will automatically be populated into the dialog the next day in markdown, making it easy for your team members to edit there responses.
+
+![image](https://user-images.githubusercontent.com/5056218/145195899-ed573dfd-c55e-426a-af2e-19ab0b069a28.png)
+
+#### I still want preformatted text
+That's no problem, formatted text can already be pasted directly to the bot in a standup conversation. Just take the response and directly paste it in the chat box. What you see here is what Standup & Prosper will send back to the team at report time.
+
+![image](https://user-images.githubusercontent.com/5056218/145196748-ca6fe163-5a85-4c50-98da-5d854c091b05.png)
 
 ## Q: How to make standups aware of the user's timezone?
 A common question about scheduling is "I want to have every user in the standup get reminded at 10:00AM in their timezone to answer the standup, how do I do this?". Great, the best way to achieve this for your team is to create one standup in each of the timezones where the users are, and assign just the users to that standup. It might seem that it would be better to have a single standup, which has a single report time, however that's actually not the best pattern. Let's take a look at some common problems that the multi-standup approach solves. For this, we'll assume there is one team in EST (UTC-4) and one team in IST (UTC+5.5):
