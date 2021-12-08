@@ -16,8 +16,8 @@ Click [Create a new issue](https://github.com/Teaminator/Standup-and-Prosper-FAQ
 There are two options for how to post the standup report.
 
 ![image](https://user-images.githubusercontent.com/5056218/145066466-1f7031b9-d624-4ecd-9d78-479cf1b5da78.png)
-* Sending the report to a thread is great for channels with lots of communication and prevents disruptions
-* Posting the report directly to the channel makes it possible to reply to individual questions or to team members.
+* Posting the report **directly to the channel** makes it possible to reply to individual questions or to team members.
+* Sending the report **to a thread** is great for channels with lots of communication and prevents disruptions
 
 Unless your channel is one that has more than 20 people in it, Standup & Prosper recommends posting directly to the channel.
 
