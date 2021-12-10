@@ -3,7 +3,7 @@ Below are listed some common answers for a few more complex activities in S&P
 
 * [I can't find an answer to my question](#q-i-cant-find-an-answer-to-my-question)
 * [How to improve replies to the standup report?](#q-how-to-improve-replies-to-the-standup-report)
-* [How to paste formatted markdown into report dialog?](#q-How-to-paste-formatted-markdown-into-report-dialog)
+* [How to paste formatted markdown into report dialog?](#q-how-to-paste-formatted-markdown-into-report-dialog)
 * [How to make standups aware of the user's timezone?](#q-how-to-make-standups-aware-of-the-users-timezone)
 * [The owner of the standup is no longer part of the Slack workspace](#q-the-owner-of-the-standup-is-no-longer-part-of-the-slack-workspace)
 * [What are the Standup & Prosper hidden commands?](#q-what-are-the-standup--prosper-hidden-commands)
@@ -23,7 +23,11 @@ Unless your channel is one that has more than 20 people in it, Standup & Prosper
 
 ![image](https://user-images.githubusercontent.com/5056218/145067470-f826f9ca-8054-4138-8882-eaaa0932ebb1.png)
 
-## Q: How to paste formatted markdown into report dialog
+Threaded responses are hidden in the thread:
+![image](https://user-images.githubusercontent.com/5056218/145558763-f18a8e37-6a50-4c81-b587-c38e5e3871d8.png)
+
+
+## Q: How to paste formatted markdown into report dialog?
 The standup popup dialog doesn't allow preformatted text, even though we have requested from Slack to allow this multiple times. There is just no way to support it, these fields only support markdown.
 
 #### Why is preformatted even necessary?
