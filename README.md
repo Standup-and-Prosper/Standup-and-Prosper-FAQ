@@ -24,6 +24,7 @@ Unless your channel is one that has more than 20 people in it, Standup & Prosper
 ![image](https://user-images.githubusercontent.com/5056218/145067470-f826f9ca-8054-4138-8882-eaaa0932ebb1.png)
 
 Threaded responses are hidden in the thread:
+
 ![image](https://user-images.githubusercontent.com/5056218/145558763-f18a8e37-6a50-4c81-b587-c38e5e3871d8.png)
 
 
