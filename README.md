@@ -8,6 +8,7 @@ Below are listed some common answers for a few more complex activities in S&P
 * [The owner of the standup is no longer part of the Slack workspace](#q-the-owner-of-the-standup-is-no-longer-part-of-the-slack-workspace)
 * [What are the Standup & Prosper hidden commands?](#q-what-are-the-standup--prosper-hidden-commands)
 * [How to set a reminder on Friday for a Monday standup?](#q-how-to-set-a-reminder-on-friday-for-a-monday-standup)
+* [Why was the standup 5 minutes late?](#q-why-was-the-standup-5-minutes-late)
 
 ## Q: I can't find an answer to my question?
 Click [Create a new issue](https://github.com/Teaminator/Standup-and-Prosper-FAQ/issues/new) and ask away, or if you figured out something that you want everyone to know, just click [edit the FAQ](https://github.com/Teaminator/Standup-and-Prosper-FAQ/edit/main/README.md). (You'll need an [github.com](https://github.com) account for this). If neither of those are options that work for you, send an email to the [Standup Support DL](mailto:faq-support@teaminator.io).
@@ -73,3 +74,8 @@ There are two kinds of messages the bot responds to:
 There is a dedicated reminder time that exists `The weekend` reminder. Create a second standup just enabled for `Monday` and set `the weekend` as your reminder time.
 
 ![image](https://user-images.githubusercontent.com/5056218/132479086-f4e017d3-0f60-443e-85a0-dcb4ec23d421.png)
+
+## Q: Why was the standup 5 minutes late?
+Unfortunately, I am not a Swiss train, I don't run exactly on time. I had a conversation with my developers, and they agreed to permit me some flexibility in scheduling of messages. Did you know there are lots of things that can get in my way, be it the network connections are down, my cloud provider is having troubles, or Slack is rejecting incoming messages. While I try to do the best I can, I do aim for the report time, plus or minus five minutes. I hope this works for you. If you could be a bit understanding, as I have millions of messages I need to handle every day, this helps me get them all delivered correctly. Consider me your standup Santa Claus:
+
+🦌🦌🦌🦌🦌🦌🦌🦌🛷🤖🔔
