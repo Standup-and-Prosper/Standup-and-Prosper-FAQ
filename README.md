@@ -28,6 +28,8 @@ Threaded responses are hidden in the thread:
 
 ![image](https://user-images.githubusercontent.com/5056218/145558763-f18a8e37-6a50-4c81-b587-c38e5e3871d8.png)
 
+## Q: What does the report portal look like?
+![standup-report-image](https://user-images.githubusercontent.com/5056218/147956686-a827b1f6-9a1a-4c98-bf1b-5339f35acadd.png)
 
 ## Q: How to paste formatted markdown into report dialog?
 The standup popup dialog doesn't allow preformatted text, even though we have requested from Slack to allow this multiple times. There is just no way to support it, these fields only support markdown.
