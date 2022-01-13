@@ -1,23 +1,23 @@
 # The Standup and Prosper FAQ
 Below are listed some common answers for a few more complex activities in S&P
 
-## Related to this FAQ
-* [I can't find an answer to my question.](#q-i-cant-find-an-answer-to-my-question)
-
-## Filling out the standup
+#### Filling out the standup
 * [How to paste formatted markdown into report dialog?](#q-how-to-paste-formatted-markdown-into-report-dialog)
 * [How to stop the bot from mentioning users?](#q-how-to-stop-the-bot-from-mentioning-users)
 * [What are the Standup & Prosper hidden commands?](#q-what-are-the-standup--prosper-hidden-commands)
 
-## Configuration
+#### Configuration
 * [How to make standups aware of the user's timezone?](#q-how-to-make-standups-aware-of-the-users-timezone)
 * [The owner of the standup is no longer part of the Slack workspace.](#q-the-owner-of-the-standup-is-no-longer-part-of-the-slack-workspace)
 * [How to improve replies to the standup report?](#q-how-to-improve-replies-to-the-standup-report)
 
-## Advanced Options
+#### Advanced Options
 * [What does the report portal look like?](#q-what-does-the-report-portal-look-like)
 * [How to set a reminder on Friday for a Monday standup?](#q-how-to-set-a-reminder-on-friday-for-a-monday-standup)
 * [Why was the standup 5 minutes late?](#q-why-was-the-standup-5-minutes-late)
+
+#### Related to this FAQ
+* [I can't find an answer to my question.](#q-i-cant-find-an-answer-to-my-question)
 
 ## Q: I can't find an answer to my question?
 Click [Create a new issue](https://github.com/Teaminator/Standup-and-Prosper-FAQ/issues/new) and ask away, or if you figured out something that you want everyone to know, just click [edit the FAQ](https://github.com/Teaminator/Standup-and-Prosper-FAQ/edit/main/README.md). (You'll need an [github.com](https://github.com) account for this). If neither of those are options that work for you, send an email to the [Standup Support DL](mailto:faq-support@teaminator.io).
