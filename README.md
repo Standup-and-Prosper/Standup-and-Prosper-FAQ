@@ -1,12 +1,21 @@
 # The Standup and Prosper FAQ
 Below are listed some common answers for a few more complex activities in S&P
 
-* [I can't find an answer to my question](#q-i-cant-find-an-answer-to-my-question)
-* [How to improve replies to the standup report?](#q-how-to-improve-replies-to-the-standup-report)
+## Related to this FAQ
+* [I can't find an answer to my question.](#q-i-cant-find-an-answer-to-my-question)
+
+## Filling out the standup
 * [How to paste formatted markdown into report dialog?](#q-how-to-paste-formatted-markdown-into-report-dialog)
-* [How to make standups aware of the user's timezone?](#q-how-to-make-standups-aware-of-the-users-timezone)
-* [The owner of the standup is no longer part of the Slack workspace](#q-the-owner-of-the-standup-is-no-longer-part-of-the-slack-workspace)
+* [How to stop the bot from mentioning users?](#q-how-to-stop-the-bot-from-mentioning-users)
 * [What are the Standup & Prosper hidden commands?](#q-what-are-the-standup--prosper-hidden-commands)
+
+## Configuration
+* [How to make standups aware of the user's timezone?](#q-how-to-make-standups-aware-of-the-users-timezone)
+* [The owner of the standup is no longer part of the Slack workspace.](#q-the-owner-of-the-standup-is-no-longer-part-of-the-slack-workspace)
+* [How to improve replies to the standup report?](#q-how-to-improve-replies-to-the-standup-report)
+
+## Advanced Options
+* [What does the report portal look like?](#q-what-does-the-report-portal-look-like)
 * [How to set a reminder on Friday for a Monday standup?](#q-how-to-set-a-reminder-on-friday-for-a-monday-standup)
 * [Why was the standup 5 minutes late?](#q-why-was-the-standup-5-minutes-late)
 
@@ -81,3 +90,8 @@ There is a dedicated reminder time that exists `The weekend` reminder. Create a 
 Unfortunately, I am not a Swiss train, I don't run exactly on time. I had a conversation with my developers, and they agreed to permit me some flexibility in scheduling of messages. Did you know there are lots of things that can get in my way, be it the network connections are down, my cloud provider is having troubles, or Slack is rejecting incoming messages. While I try to do the best I can, I do aim for the report time, **plus or minus five minutes**. I hope this works for you. If you could be a bit understanding, as I have millions of messages I need to handle every day, this helps me get them all delivered correctly. Consider me your standup Santa Claus:
 
 🦌🦌🦌🦌🦌🦌🦌🦌🛷🤖🔔
+
+## Q: How to stop the bot from mentioning users?
+When the bot posts the report to the channel, the users of the report are tagged so they are aware that it is time to review the standup report. This functionality can be turned off `Notify users of a standup when it posts`.
+![image](https://user-images.githubusercontent.com/5056218/149374584-ccaac992-f0c8-428f-bf04-4ef979e460a2.png)
+
