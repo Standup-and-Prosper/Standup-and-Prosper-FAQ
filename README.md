@@ -74,7 +74,8 @@ You can share images into the standup using the direct message dialog:
 ![image](https://user-images.githubusercontent.com/5056218/157741901-331c0a4c-d931-489c-852e-c4fa8f2dd46d.png)
 
 The bot will render the image as a link to be clicked on by your team members:
-![image](https://user-images.githubusercontent.com/5056218/157742321-95b87479-edda-43b2-960c-2c5e342fef25.png)
+![image](https://user-images.githubusercontent.com/5056218/157751309-309cb3df-97d7-4b01-b84d-0367e8b9c400.png)
+
 
 ## Q: How to make standups aware of the user's timezone?
 A common question about scheduling is "I want to have every user in the standup get reminded at 10:00AM in their timezone to answer the standup, how do I do this?". Great, the best way to achieve this for your team is to create one standup in each of the timezones where the users are, and assign just the users to that standup. It might seem that it would be better to have a single standup, which has a single report time, however that's actually not the best pattern.
