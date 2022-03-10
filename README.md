@@ -1,6 +1,9 @@
 # The Standup and Prosper FAQ
 Below are listed some common answers for a few more complex activities in S&P
 
+#### Help, the bot isn't asking me for the standup
+* [You might be on vacation, how do I come back from vacation?](#q-how-do-i-return-from-vacation)
+
 #### Filling out the standup
 * [How to paste formatted markdown into report dialog?](#q-how-to-paste-formatted-markdown-into-report-dialog)
 * [How to stop the bot from mentioning users?](#q-how-to-stop-the-bot-from-mentioning-users)
@@ -21,6 +24,16 @@ Below are listed some common answers for a few more complex activities in S&P
 
 ## Q: I can't find an answer to my question?
 Click [Create a new issue](https://github.com/Teaminator/Standup-and-Prosper-FAQ/issues/new) and ask away, or if you figured out something that you want everyone to know, just click [edit the FAQ](https://github.com/Teaminator/Standup-and-Prosper-FAQ/edit/main/README.md). (You'll need an [github.com](https://github.com) account for this). If neither of those are options that work for you, send an email to the [Standup Support DL](mailto:faq-support@teaminator.io).
+
+## Q: How do I return from vacation
+If you go on vacation or someone clicks **Everyone is on vacation**, you will be marked as on vacation. While on vacation, the bot will not send you any messages, and automatically assumes you are skipping every standup in your workspace. If this happens and you are actually back from vacation, just message the bot with the message: *I'm back from vacation*.
+
+![image](https://user-images.githubusercontent.com/5056218/157710764-af0b75a6-7b5e-4ca5-93c2-9575fc48bdaf.png)
+
+Alternatively, you can go to the app home in Slack, and click *I'm back from vacation* button.
+
+![image](https://user-images.githubusercontent.com/5056218/157710805-69415ea8-13b3-4f6e-a10c-6e1632c5ef38.png)
+
 
 ## Q: How to improve replies to the standup report?
 There are two options for how to post the standup report.
