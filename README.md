@@ -12,7 +12,6 @@ Below are listed some common answers for a few more complex activities in S&P
 
 #### Configuration
 * [How to make standups aware of the user's timezone?](#q-how-to-make-standups-aware-of-the-users-timezone)
-* [I want to post the standup as soon as the first user answers!](#q-how-to-post-the-standup-as-soon-as-the-first-user-answers)
 * [The owner of the standup is no longer part of the Slack workspace.](#q-the-owner-of-the-standup-is-no-longer-part-of-the-slack-workspace)
 * [How to improve replies to the standup report?](#q-how-to-improve-replies-to-the-standup-report)
 
