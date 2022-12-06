@@ -97,23 +97,6 @@ Creating a separate standup for each timezone provides additional solutions such
 #### I still want a multi-timezone solution
 We are happy to work with you to design a solution that handles your team's standup value proposition. Our recommendation is to set up multiple standups one for each timezone, try it out, and let us know about anything that doesn't work. We can work together to create improvements that target those problems.
 
-## Q: How to post the standup as soon as the first user answers
-This is really hard to solve!
-
-Yes, it is hard! And actually not only for us to implement (due to some limitations in Slack), but also for teams like yours to manage. For the sake of us understanding how we would implement the complexity, perhaps it is worth diving into.
-
-S&P offers two different reporting modes:
-* Create a thread - and posting all users messages in that Slack thread
-* Post user standup reports directly in the channel - one report after the other
-
-1. Let us consider the first one. Let's say a standup normally reports at 12:00 PM. If people start to answer earlier, the standup would post at that time, and all future teams answers would be included in that first message. As time goes on, and the channel receives more and more messages, the updates that other team members make will be lost in the past thread and never seen by anyone. There's a huge struggle from a UX perspective to make this a great experience for your team members that post later standup reports. The reason is that they have to navigate back in the history to find the standup report thread and see everyone else's report. And worse, they won't when to look.
-
-1. Let's consider the second one, instead of posting only at an earlier time, we post a new message every time someone reports their standup. This has similar issues to the previous case, and one additional problem. There are now many messages in the history to review, and not just one.
-
-From both of these circumstances, we know  at the very least we still need to post at the expected time, and at worst these earlier messages may interrupt the conversation happening in the channel at that time. While knowing this, team members will likely decide to ignore these messages, waiting for the "final one" to be posted.
-
-If you have lot's of different "times" that users are posting and want these to be posted at the time in which they are reported, the easiest solution is create a standup per person as Standup & Prosper allows any number of standups for the same channel. In the case you have any insights into how to deal with the above problems, we'd love to know, and you can reach out to either our Support or Developers via email.
-
 ## Q: The owner of the standup is no longer part of the Slack workspace
 Any member of the standup (not any member of slack) can edit a standup. If there is a standup currently reporting that you don't have access to, the best thing to do is message the channel asking to be added to the standup. If there is a need for different standup roles for different standup access (edit configuration, review reports, answer standup), upgrade the account to [Support Standard](https://standup.teaminator.io/app/?install=false#/settings?focus=standard).
 
