@@ -24,7 +24,7 @@ Below are listed some common answers for a few more complex activities in S&P
 * [I can't find an answer to my question.](#q-i-cant-find-an-answer-to-my-question)
 
 ## Q: I can't find an answer to my question?
-Click [Create a new issue](https://github.com/Teaminator/Standup-and-Prosper-FAQ/issues/new) and ask away, or if you figured out something that you want everyone to know, just click [edit the FAQ](https://github.com/Teaminator/Standup-and-Prosper-FAQ/edit/main/README.md). (You'll need an [github.com](https://github.com) account for this). If neither of those are options that work for you, send an email to the [Standup Support DL](mailto:faq-support@teaminator.io).
+Click [Create a new issue](https://standup-and-prosper.com/app/#/support) and ask away, or if you figured out something that you want everyone to know, just click [edit the FAQ](https://github.com/Standup-and-Prosper/Standup-and-Prosper-FAQ/edit/main/README.md). (You'll need an [github.com](https://github.com) account for this). If neither of those are options that work for you, send an email to the [Standup Support DL](mailto:faq-support@standup-and-prosper.com).
 
 ## Q: How do I return from vacation
 If you go on vacation or someone clicks **Everyone is on vacation**, you will be marked as on vacation. While on vacation, the bot will not send you any messages, and automatically assumes you are skipping every standup in your workspace. If this happens and you are actually back from vacation, just message the bot with the message: *I'm back from vacation*.
@@ -97,7 +97,7 @@ Creating a separate standup for each timezone provides additional solutions such
 We are happy to work with you to design a solution that handles your team's standup value proposition. Our recommendation is to set up multiple standups one for each timezone, try it out, and let us know about anything that doesn't work. We can work together to create improvements that target those problems.
 
 ## Q: The owner of the standup is no longer part of the Slack workspace
-Any member of the standup (not any member of slack) can edit a standup. If there is a standup currently reporting that you don't have access to, the best thing to do is message the channel asking to be added to the standup. If there is a need for different standup roles for different standup access (edit configuration, review reports, answer standup), upgrade the account to [Support Standard](https://standup.teaminator.io/app/?install=false#/settings?focus=standard).
+Any member of the standup (not any member of slack) can edit a standup. If there is a standup currently reporting that you don't have access to, the best thing to do is message the channel asking to be added to the standup. If there is a need for different standup roles for different standup access (edit configuration, review reports, answer standup), upgrade the account to [Support Standard](https://standup-and-prosper.com/app/?install=false#/settings?focus=standard).
 
 ## Q: What are the Standup & Prosper hidden commands?
 There are two kinds of messages the bot responds to:
