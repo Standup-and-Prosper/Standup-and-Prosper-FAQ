@@ -24,7 +24,7 @@ Below are listed some common answers for a few more complex activities in S&P
 * [I can't find an answer to my question.](#q-i-cant-find-an-answer-to-my-question)
 
 ## Q: I can't find an answer to my question?
-Click [Create a new issue](https://standup-and-prosper.com/app/#/support) and ask away, or if you figured out something that you want everyone to know, just click [edit the FAQ](https://github.com/Standup-and-Prosper/Standup-and-Prosper-FAQ/edit/main/README.md). (You'll need an [github.com](https://github.com) account for this). If neither of those are options that work for you, send an email to the [Standup Support DL](mailto:faq-support@standup-and-prosper.com).
+Click [Create a new issue](https://standup-and-prosper.com/app/#/support) and ask away, or if you figured out something that you want everyone to know, just click [edit the FAQ](https://github.com/Standup-and-Prosper/Standup-and-Prosper-FAQ/edit/main/README.md). (You'll need an [github.com](https://github.com) account for this). If neither of those are options that work for you, send an email to the [Standup Support DL](https://standup.teaminator.io/app/?install=false#/support).
 
 ## Q: How do I return from vacation
 If you go on vacation or someone clicks **Everyone is on vacation**, you will be marked as on vacation. While on vacation, the bot will not send you any messages, and automatically assumes you are skipping every standup in your workspace. If this happens and you are actually back from vacation, just message the bot with the message: *I'm back from vacation*.
@@ -118,3 +118,9 @@ Unfortunately, I am not a Swiss train, I don't run exactly on time. I had a conv
 When the bot posts the report to the channel, the users of the report are tagged so they are aware that it is time to review the standup report. This functionality can be turned off `Notify users of a standup when it posts`.
 ![image](https://user-images.githubusercontent.com/5056218/149374584-ccaac992-f0c8-428f-bf04-4ef979e460a2.png)
 
+## Q: Why is there a $20 charge on my credit card?
+The $20 charge you see at the beginning of your Standup & Prosper upgrade is a temporary authorization charge. This charge will not be completed and will fall off your card in a couple of days.
+
+Standup & Prosper charges your card at the end of the month based on the number of monthly active standup members. If your workspace has 20 members, but only 10 of them used Standup & Prosper, then at the end of the billing cycle, you will be charged $10.
+
+If for any reason, this charge still goes through please reach out to our [Support](https://standup.teaminator.io/app/?install=false#/support)
