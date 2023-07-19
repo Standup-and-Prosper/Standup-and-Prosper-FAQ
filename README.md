@@ -5,7 +5,7 @@ Below are listed some common answers for a few more complex activities in S&P
 * [You might be on vacation, how do I come back from vacation?](#q-how-do-i-return-from-vacation)
 
 #### Filling out the standup
-* [How to paste formatted markdown into report dialog?](#q-how-to-paste-formatted-markdown-into-report-dialog)
+* [How to paste formatted markdown into report dialog?](./fag/formattedPopupDialog.md)
 * [Do images work?](#q-how-do-i-share-an-image)
 * [How to stop the bot from mentioning users?](#q-how-to-stop-the-bot-from-mentioning-users)
 * [What are the Standup & Prosper hidden commands?](#q-what-are-the-standup--prosper-hidden-commands)
@@ -56,20 +56,6 @@ Threaded responses are hidden in the thread:
 
 ## Q: What does the report portal look like?
 ![standup-report-image](https://user-images.githubusercontent.com/5056218/147956686-a827b1f6-9a1a-4c98-bf1b-5339f35acadd.png)
-
-## Q: How to paste formatted markdown into report dialog?
-The standup popup dialog doesn't allow preformatted text, even though we have requested from Slack to allow this multiple times. There is just no way to support it, these fields only support markdown.
-
-#### Why is preformatted even necessary?
-
-In some cases standup team members may want to copy their previous day's standup answers to today. In those cases rather than manually copying and pasting, there is a great automated solution that exists to solve this problem. Just enable the **Autofill prepopulation** and Standup & Prosper will take care of the rest. Answers will be automatically populated into the dialog the next day **in markdown**, making it easy for your team members to edit their responses.
-
-![image](https://user-images.githubusercontent.com/5056218/145195899-ed573dfd-c55e-426a-af2e-19ab0b069a28.png)
-
-#### I still want preformatted text
-That's no problem, preformatted text can already be pasted directly to the bot in a standup conversation. Just take the response and paste it directly in the chat box. What you see here is what Standup & Prosper will send back to the team at report time.
-
-![image](https://user-images.githubusercontent.com/5056218/145196748-ca6fe163-5a85-4c50-98da-5d854c091b05.png)
 
 ## Q: How do I share an image?
 
