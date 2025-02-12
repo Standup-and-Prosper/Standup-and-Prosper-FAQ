@@ -5,7 +5,7 @@ Below are listed some common answers for a few more complex activities in S&P
 * [You might be on vacation, how do I come back from vacation?](#q-how-do-i-return-from-vacation)
 
 #### Filling out the standup
-* [How to paste formatted markdown into report dialog?](./fag/formattedPopupDialog.md)
+* [How to paste formatted markdown into report dialog?](./faq/formattedPopupDialog.md)
 * [Do images work?](#q-how-do-i-share-an-image)
 * [How to stop the bot from mentioning users?](#q-how-to-stop-the-bot-from-mentioning-users)
 * [What are the Standup & Prosper hidden commands?](#q-what-are-the-standup--prosper-hidden-commands)
