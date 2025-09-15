@@ -19,7 +19,7 @@ Below are listed some common answers for a few more complex activities in S&P
 * [What does the report portal look like?](#q-what-does-the-report-portal-look-like)
 * [How to set a reminder on Friday for a Monday standup?](#q-how-to-set-a-reminder-on-friday-for-a-monday-standup)
 * [Why was the standup 5 minutes late?](#q-why-was-the-standup-5-minutes-late)
-* [Automatic linkable terms information links](linkable-terms)
+* [Automatic linkable terms information links](#linkable-terms)
 
 #### Related to this FAQ
 * [I can't find an answer to my question.](#q-i-cant-find-an-answer-to-my-question)
