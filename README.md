@@ -19,6 +19,7 @@ Below are listed some common answers for a few more complex activities in S&P
 * [What does the report portal look like?](#q-what-does-the-report-portal-look-like)
 * [How to set a reminder on Friday for a Monday standup?](#q-how-to-set-a-reminder-on-friday-for-a-monday-standup)
 * [Why was the standup 5 minutes late?](#q-why-was-the-standup-5-minutes-late)
+* [Automatic linkable terms information links](linkable-terms)
 
 #### Related to this FAQ
 * [I can't find an answer to my question.](#q-i-cant-find-an-answer-to-my-question)
@@ -113,3 +114,8 @@ The $20 charge you see at the beginning of your Standup & Prosper upgrade is a t
 Standup & Prosper charges your card at the end of the month based on the number of monthly active standup members. If your workspace has 20 members, but only 10 of them used Standup & Prosper, then at the end of the billing cycle, you will be charged $10.
 
 If for any reason, this charge still goes through please reach out to our [Support](https://standup.teaminator.io/app/?install=false#/support).
+
+<a name="linkable-terms"></a>
+## Q: Why are there links for some topics automatically added to the standup?
+
+You might be seeing linkable terms when we've found opportunities to automatically help define certain things that we felt would add value. SSO is one of those terms we've identified as frequently used in standups and not always well defined everyone. This happens automatically without any extra configuration required. This is part of a larger effort to be as helpful as possible with linking to relevant resources to streamline communication over standups.
