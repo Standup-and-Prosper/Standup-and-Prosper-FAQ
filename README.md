@@ -11,7 +11,7 @@ Below are listed some common answers for a few more complex activities in S&P
 * [What are the Standup & Prosper hidden commands?](#q-what-are-the-standup--prosper-hidden-commands)
 
 #### Configuration
-* [Add a standup admin](./addStandupAdmin.md)
+* [Add a standup admin](./faq/addStandupAdmin.md)
 * [How to make standups aware of the user's timezone?](#q-how-to-make-standups-aware-of-the-users-timezone)
 * [The owner of the standup is no longer part of the Slack workspace.](#q-the-owner-of-the-standup-is-no-longer-part-of-the-slack-workspace)
 * [How to improve replies to the standup report?](#q-how-to-improve-replies-to-the-standup-report)
